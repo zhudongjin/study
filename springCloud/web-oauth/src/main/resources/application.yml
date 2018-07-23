@@ -1,0 +1,11 @@
+server:
+  port: 6062
+spring:
+  application:
+    name: oauth
+eureka:
+ client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://192.168.6.88:8761/eureka/

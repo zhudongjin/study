@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/web-acc/acc.iml" filepath="$PROJECT_DIR$/web-acc/acc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-eureka/base-eureka.iml" filepath="$PROJECT_DIR$/base-eureka/base-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/euraka-server/euraka-server.iml" filepath="$PROJECT_DIR$/euraka-server/euraka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-gateWay/gateway.iml" filepath="$PROJECT_DIR$/web-gateWay/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-designMode/gateway (1).iml" filepath="$PROJECT_DIR$/web-designMode/gateway (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/gold-framework/gold-framework.iml" filepath="$PROJECT_DIR$/gold-framework/gold-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-oauth/goldoauth.iml" filepath="$PROJECT_DIR$/web-oauth/goldoauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-test/goldtest.iml" filepath="$PROJECT_DIR$/web-test/goldtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-oauth/goldtest (1).iml" filepath="$PROJECT_DIR$/web-oauth/goldtest (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springCloud.iml" filepath="$PROJECT_DIR$/.idea/springCloud.iml" />
+    </modules>
+  </component>
+</project>

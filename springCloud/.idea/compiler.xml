@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="acc" />
+        <module name="base-eureka" />
+        <module name="euraka-server" />
+        <module name="gateway" />
+        <module name="gateway (1)" />
+        <module name="gold-framework" />
+        <module name="goldoauth" />
+        <module name="goldtest" />
+        <module name="goldtest (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="acc" target="1.8" />
+      <module name="base-eureka" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="euraka-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="gateway (1)" target="1.8" />
+      <module name="gold-framework" target="1.8" />
+      <module name="goldoauth" target="1.8" />
+      <module name="goldtest" target="1.8" />
+      <module name="goldtest (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
